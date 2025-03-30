@@ -4,5 +4,11 @@
   "author": "André Santiago",
   "license": "MIT",
   "version": "0.0.0",
-  "main": "index.js"
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
 }
